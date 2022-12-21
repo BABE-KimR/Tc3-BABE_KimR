@@ -1,13 +1,13 @@
 # About This Repository
 
-Default .gitIgnore file
+# Default .gitIgnore file
 Created by https://www.toptal.com/developers/gitignore/api/twincat3,visualstudio
 Edit at https://www.toptal.com/developers/gitignore?templates=twincat3,visualstudio
 
-# Usage
+## Usage
 Best practice for this .gitIgnore is to name the PLC project PLC
 
-# Remark on tmc file(s) inclusion
+## Remark on tmc file(s) inclusion
 The .gitIgnore file includes the following tmc rules
 Don't include the tmc-file rule if either of the following is true:
    1. You've got TwinCAT C++ projects, as the information in the TMC-file is created manually for the C++ projects (in that case, only (manually) ignore the tmc-files for the PLC projects)
