@@ -49,8 +49,20 @@ plc.tmc
 * use the created GUID
 * name the different subelements
 * fill in the necessary data for the different sub elements
-
+* add the xml to the library properties
+* do not forget to restart visual studio, otherwise the structure won't be available in the library repository  
 
 # Best practices XAE environment setup for git integration 
 
+## Informational video
+PLC programming using TwinCAT 3 - Version control (Part 13/18)
+https://www.youtube.com/watch?v=1g6eYnlzKtA&t=2866s
 
+## Configuration of the TcProjectCompare for use with source control
+https://infosys.beckhoff.com/content/1033/project_compare_tool/27021597866795659.html?id=7595618039726566519
+
+## Save lineID's to an external file
+![image](https://user-images.githubusercontent.com/79637976/208898849-e357c23a-259c-4b2c-9cd3-44312935ca28.png)
+
+## Enable Multiple Project Files
+![image](https://user-images.githubusercontent.com/79637976/208899155-a59545d4-783c-43ea-a512-10280fe47f47.png)
