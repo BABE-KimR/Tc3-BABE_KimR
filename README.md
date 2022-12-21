@@ -65,4 +65,5 @@ https://infosys.beckhoff.com/content/1033/project_compare_tool/27021597866795659
 ![image](https://user-images.githubusercontent.com/79637976/208898849-e357c23a-259c-4b2c-9cd3-44312935ca28.png)
 
 ## Enable Multiple Project Files
-![image](https://user-images.githubusercontent.com/79637976/208899155-a59545d4-783c-43ea-a512-10280fe47f47.png)
+Not really necessary, but might reduce the code changes in the project file.
+![image](https://user-images.githubusercontent.com/79637976/208901435-228b9c37-631c-4e32-8d50-ffea22ee1f0b.png)
