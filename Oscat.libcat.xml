@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LibraryCategories>
+	<LibraryCategory>
+		<Id>{c4f3d7e6-b892-4109-af00-977141051b33}</Id>
+		<Version>1.0.0.0</Version>
+		<DefaultName>Oscat</DefaultName>
+	</LibraryCategory>
+</LibraryCategories>
