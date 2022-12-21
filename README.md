@@ -62,8 +62,9 @@ https://www.youtube.com/watch?v=1g6eYnlzKtA&t=2866s
 https://infosys.beckhoff.com/content/1033/project_compare_tool/27021597866795659.html?id=7595618039726566519
 
 ## Save lineID's to an external file
-![image](https://user-images.githubusercontent.com/79637976/208898849-e357c23a-259c-4b2c-9cd3-44312935ca28.png)
+![image](https://user-images.githubusercontent.com/79637976/208902919-b1a33c55-31d8-47f8-bbae-68a9eccefb71.png)
 
 ## Enable Multiple Project Files
-Not really necessary, but might reduce the code changes in the project file.
+Not really necessary, but reduces the number of code changes in the main project file. 
+Might be easier during code compare.
 ![image](https://user-images.githubusercontent.com/79637976/208901435-228b9c37-631c-4e32-8d50-ffea22ee1f0b.png)
