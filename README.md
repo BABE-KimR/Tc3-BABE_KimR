@@ -1,12 +1,12 @@
 # About This Repository
 
-These libraries go hand-in-hand with the [VFFS Demo PLC](https://github.com/Beckhoff-USA-Community/PackML_PLC_Example).
+Default .gitIgnore file
+Created by https://www.toptal.com/developers/gitignore/api/twincat3,visualstudio
+Edit at https://www.toptal.com/developers/gitignore?templates=twincat3,visualstudio
 
-This sample is created by [Beckhoff Automation LLC.](https://www.beckhoff.com/en-us/), and is provided as-is under the Zero-Clause BSD license.
+The .gitIgnore file includes the following rules
+Best practice for this .gitIgnore is to name the PLC project PLC
+  #*.tmc
+  plc.tmc
 
-Associated Function Block documentation can be found in the project wiki. https://github.com/Beckhoff-USA-Community/SPT-Libraries/wiki
-
-
-# How to get support
-
-Should you have any questions regarding the provided sample code, please contact your local Beckhoff support team. Contact information can be found on the official Beckhoff website at https://www.beckhoff.com/en-us/support/.
+Background info for tmc inclusion
