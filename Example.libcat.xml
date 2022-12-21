@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LibraryCategories>
+	<LibraryCategory>
+		<Id>{00000000-1000-0000-0000-000000000000}</Id>
+		<Version>1.0.0.0</Version>
+		<DefaultName>ExampleParent</DefaultName>
+	</LibraryCategory>
+	<LibraryCategory>
+		<Id>{00000000-0000-0000-0000-000000000000}</Id>
+		<Version>1.0.0.0</Version>
+		<DefaultName>ExampleCategory</DefaultName>
+		<ParentCategory>
+			<Id>{00000000-1000-0000-0000-000000000000}</Id>
+		</ParentCategory>
+	</LibraryCategory>
+</LibraryCategories>
